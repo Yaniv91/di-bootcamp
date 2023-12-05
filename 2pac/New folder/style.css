@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+li{
+    background-color: aqua;
+}
+*{
+    font-style: italic;
+}
+h3{
+  font-size: 80px;  
+}
+li{
+    display: inline-block;
+}
